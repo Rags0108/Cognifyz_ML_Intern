@@ -20,12 +20,29 @@ Restaurant Dataset provided by Cognifyz.
 
 ## Project Structure
 
-├── Dataset
-├── Task-1_Predict_Restaurant_Ratings
-├── Task-2_Restaurant_Recommendation
-├── Task-4_Location-based_Analysis
+```
+Cognifyz_ML_Intern/
+│
+├── Dataset/
+│   └── restaurant.csv
+│
+├── Task-1_Predict_Restaurant_Ratings/
+│   ├── models/
+│   ├── output/
+│   └── task1.ipynb
+│
+├── Task-2_Restaurant_Recommendation/
+│   ├── output/
+│   └── task_2_recommendation.ipynb
+│
+├── Task-4_Location-based_Analysis/
+│   ├── map/
+│   ├── output/
+│   └── task4.ipynb
+│
 ├── README.md
 └── requirements.txt
+```
 
 ## Results
 
