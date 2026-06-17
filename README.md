@@ -1,5 +1,3 @@
-"# Cognifyz_ML_Intern" 
-
 # Cognifyz Machine Learning Internship
 
 ## Tasks Completed
